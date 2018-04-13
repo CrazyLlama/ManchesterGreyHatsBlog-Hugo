@@ -1,7 +1,7 @@
 ---
 title: "Blogging With MGH"
 categories: ["Articles"]
-tags: ["mgh","blog","how to"]
+tags: ["mgh","blog","how to","Jay"]
 date: 2017-12-17T17:09:50Z
 ---
 
@@ -50,7 +50,7 @@ To fork a repository, click the "Fork" button on the page of the repository - in
 You should now have a copy of the ManchesterGreyHatsBlog-Hugo repository. This needs to be cloned i.e. making a copy locally so that files can be updated. With git, this can be done from the commandline as follows:
 
 ```
-$ git clone ManchesterGreyHatsBlog-Hugo
+$ git --recursive clone ManchesterGreyHatsBlog-Hugo
 $ cd ManchesterGreyHatsBlog-Hugo
 ```
 # Creating a post
